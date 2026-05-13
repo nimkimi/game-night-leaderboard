@@ -1,0 +1,45 @@
+{
+  "players": [
+    { "id": "p1", "name": "Alice" },
+    { "id": "p2", "name": "Bob" },
+    { "id": "p3", "name": "Carlos" },
+    { "id": "p4", "name": "Diana" },
+    { "id": "p5", "name": "Erik" },
+    { "id": "p6", "name": "Fatima" },
+    { "id": "p7", "name": "Guest" }
+  ],
+  "rounds": [
+    {
+      "roundNumber": 1,
+      "scores": { "p1": 50, "p2": 9, "p3": 11, "p4": 17, "p5": 6, "p6": 13 }
+    },
+    {
+      "roundNumber": 2,
+      "scores": { "p1": 10, "p2": 15, "p3": 8, "p4": 12, "p5": 18, "p6": 7 }
+    },
+    {
+      "roundNumber": 3,
+      "scores": { "p1": 16, "p2": 11, "p3": 14, "p4": 9, "p5": 13, "p6": 19 }
+    },
+    {
+      "roundNumber": 4,
+      "scores": { "p1": 8, "p2": 20, "p3": 17, "p4": 14, "p5": 10, "p6": 11 }
+    },
+    {
+      "roundNumber": 5,
+      "scores": { "p1": 18, "p2": 13, "p3": 9, "p4": 16, "p5": 7, "p6": 14 }
+    },
+    {
+      "roundNumber": 6,
+      "scores": { "p1": 12, "p2": 8, "p3": 20, "p4": 11, "p5": 15, "p6": 10 }
+    },
+    {
+      "roundNumber": 7,
+      "scores": { "p1": 19, "p2": 14, "p3": 13, "p4": 8, "p5": 11, "p6": 16 }
+    },
+    {
+      "roundNumber": 8,
+      "scores": { "p1": 11, "p2": 17, "p3": 15, "p4": 20, "p5": 9, "p6": 12 }
+    }
+  ]
+}
